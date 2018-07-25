@@ -15,7 +15,7 @@
     "precommit":"lint-staged",
     "eject": "react-scripts eject"
   },
-  "lint-stageds": {
+  "lint-staged": {
     "linters": {
       "src/**/*.js" : [
         "prettier-standard",
