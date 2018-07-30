@@ -1,4 +1,5 @@
 import { SQUARE_CLICKED } from './constants'
 import { squareClicked } from './actions'
+import { initalState, rootReducer } from './reducers'
 
-export { SQUARE_CLICKED, squareClicked }
+export { initalState, rootReducer, SQUARE_CLICKED, squareClicked }
